@@ -11,9 +11,9 @@
 <p>
   This labwork made use of a web based password cracking tool made by NetworkWalks to perform password cracking.This web tool not only allows you to obtain the hash of the file right away, but it allows you to also use 100 randomly generated words or upload a wordlist to be used.
 </p>
-<p>To  briefly explain how both work,It basically makes use of the hash of the encripted file and a wordlist. Then the tool uses every word in the wordlist to try and guess the password.Depending on your computers resources it can be done in a matter of seconds or in minutes.    </p>
+<p>To  briefly explain how both work,It basically makes use of the hash of the encrypted file and a wordlist. Then the tool uses every word in the wordlist to try and guess the password.Depending on your computers resources it can be done in a matter of seconds or in minutes.    </p>
 
-<p>So here is how it wokrs step by step:
+<p>So here is how it works step by step:
 <ul>
  <li> This website is visited first : https://networkwalks.com/hash-calculator/</li>
   
@@ -24,7 +24,7 @@
   ![](Screenshots/c.png)
 
   <li>This website is visited next: https://networkwalks.com/password-cracker/  .</li>
-  <li>When that is done, the hash copied is pasted and you have the option to either use the bult-in passwords or a wordlist. After some time the password will be given</li>
+  <li>When that is done, the hash copied is pasted and you have the option to either use the built-in passwords or a wordlist. After some time the password will be given</li>
    
    ![](Screenshots/d.png)
 

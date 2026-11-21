@@ -16,12 +16,28 @@
 <p>So here is how it wokrs step by step:
 <ul>
   <li> Johnny GUi is must be downloaded,installed and properly configured.</li>
+  ![](Screenshots/a.png)
+  
   <li> A wordlist must be obtained like rockyou.txt</li>
+  
   <li>The hash of the encrypted file must be obtained and put into a .txt file</li>
   
-  ![](Screenshots/a.xcf)
+  ![](Screenshots/b.png)
+
+  ![](Screenshots/c.png)
+
+  ![](Screenshots/d.png)
   
-  <li>  </li>
+  <li> The GUI must be pointed to the txt file with the hash  </li>
+  
+  <li> After that the cracking may begin which may take some time. After this the passwoed is given. </li>
+
+  ![](Screenshots/f.png)
+
+<li> Then the encrypted file is opened and the password obtained is given. After this the file opens. </li>
+
+![](Screenshots/g.png)
+
   
 
 </ul>

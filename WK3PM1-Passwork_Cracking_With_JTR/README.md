@@ -18,6 +18,9 @@
   <li> Johnny GUi is must be downloaded,installed and properly configured.</li>
   <li> A wordlist must be obtained like rockyou.txt</li>
   <li>The hash of the encrypted file must be obtained and put into a .txt file</li>
+  
+  ![](Screenshots/a.xcf)
+  
   <li>  </li>
   
 
